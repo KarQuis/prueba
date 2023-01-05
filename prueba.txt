@@ -6,3 +6,5 @@ Estamos viendo los cambios.
 Todo para poder aprender mas.
 
 Y ser un mejor programador.
+
+Esto es un error
